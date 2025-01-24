@@ -2,5 +2,5 @@
 - Works efficiently in order to create, update and delete the tasks.
 
 - ### Demo
-<video src="C:\Users\Aditi\Videos\Screen Recorder\20241030180711.mp4" controls width="800"></video>
+<video src="https://github.com/AD5224/to_do_list_webapp/blob/main/demo.mp4" controls width="800"></video>
 
